@@ -1,2 +1,4 @@
 " Overwrite this file with whatever you want. This will be executed after
 " loading any of the stock bundles/settings.
+"
+let g:syntastic_javascript_flow_use_server=1
